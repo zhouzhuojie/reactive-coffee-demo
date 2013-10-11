@@ -13,8 +13,8 @@
       },
       "reactive-coffee": {
         "git": "https://github.com/zhouzhuojie/meteor-reactive-coffee.git",
-        "tag": "v0.0.3",
-        "commit": "c9df4eab0a2cbe065f008d3c269cf8fb879d35fb"
+        "tag": "v0.0.4",
+        "commit": "81258de3684dbcc93078dea55393c83f9a27c59f"
       }
     }
   }
