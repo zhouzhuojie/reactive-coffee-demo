@@ -8,13 +8,13 @@
     "packages": {
       "moment": {
         "git": "https://github.com/acreeger/meteor-moment.git",
-        "tag": "v2.2.1",
-        "commit": "9ee12e714afe56b189f53076447b7b54f3012065"
+        "tag": "v2.6.0",
+        "commit": "26156df681750fd6e6ed77043eef32b6653ebbdf"
       },
       "reactive-coffee": {
         "git": "https://github.com/zhouzhuojie/meteor-reactive-coffee.git",
-        "tag": "v0.0.4",
-        "commit": "81258de3684dbcc93078dea55393c83f9a27c59f"
+        "tag": "v0.0.5",
+        "commit": "e9381176dca17e6766ed888d1709231fcf733d39"
       }
     }
   }

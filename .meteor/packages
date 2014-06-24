@@ -6,7 +6,6 @@
 standard-app-packages
 autopublish
 insecure
-preserve-inputs
 coffeescript
 reactive-coffee
 moment
