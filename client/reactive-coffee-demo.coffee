@@ -1,6 +1,7 @@
 Meteor.startup ->
+
   bind = rx.bind
-  rxt.importTags()
+  rx.rxt.importTags()
 
   # Put some data into tasks
   window.tasks = rx.meteor.find TaskDB, {}, {sort:{created:-1}}

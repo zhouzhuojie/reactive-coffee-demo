@@ -7,5 +7,5 @@ standard-app-packages
 autopublish
 insecure
 coffeescript
-reactive-coffee
-moment
+mrt:reactive-coffee
+mrt:moment
